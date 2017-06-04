@@ -10,4 +10,4 @@ Reviews and comments can go to the [issues page](https://github.com/i2000s/2017S
 Research materials are released under the [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/) license, which basically says you are welcome to reuse, redistribute and modify the source files as long as a proper credit is given at proper places.
 In the slides, a few carton icons and the picture on the *Future Works* slide are from internet with no copyright statements attached. 
 
-Citation [DOI](http://www.doi.org/): [10.5281/zenodo.495266](https://doi.org/10.5281/zenodo.495266).
+Citation [DOI](http://www.doi.org/): [10.5281/zenodo.802696](https://doi.org/10.5281/zenodo.802696).
