@@ -1,7 +1,7 @@
 # 2017SQuInT-SpinSqueezingOnNanophotonicWaveguides
 Repo of Xiaodong Qi's SQuInT 2017 Talk.
 
-Slides can be downloaded [here](https://github.com/i2000s/2017SQuInT-SpinSqueezingOnNanophotonicWaveguides/releases).
+Slides and the audio record of the talk can be downloaded [here](https://github.com/i2000s/2017SQuInT-SpinSqueezingOnNanophotonicWaveguides/releases).
 
 Talk information can be found [here](https://purl.org/qxd/en/2016/12/16/squint-2017-talk.html).
 
